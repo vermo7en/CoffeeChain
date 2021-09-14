@@ -1,6 +1,6 @@
 # CoffeeChain
 
-CoffeeChain is a project for Udacity's Blockchain Engineer Nanodegree. It is a coffee supply chain dapp.
+CoffeeChain is a project for Udacity's Blockchain Developer Nanodegree. It is a coffee supply chain dapp.
 
 ## Project Feedback
 
